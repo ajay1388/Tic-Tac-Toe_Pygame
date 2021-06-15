@@ -1,13 +1,13 @@
 # Tic-Tac-Toe_Pygame
 
 ## Objective
-This is a Tic-Tac-Toe game built using pygame library in python. Here is a list of columns used for making snake game:
+This is a Tic-Tac-Toe game built using pygame library in python. Here is a list of columns used for making Tic-Tac-Toe game:
 
 * `window_width` : width of the game vindow
 * `window_height` : height of the game window
 * `filled_boxes` : which all boxes are filled till now
 * `curr_game` : current status of the game to check if any player wins or not or the game is draw
-* `colour` : colour of the snake body and the background colour
+* `colour` : colour of the blocks and background colour
 
 ## Software and Libraries
 
